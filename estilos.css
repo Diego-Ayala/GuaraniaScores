@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document*/
+
+body{
+    background-color: #abcdef;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    background-color: pink;
+    text-align: center;
+    float: left;
+    height: 420px;
+    width: 300px;
+}
+
+input.boton{
+    bottom: 1em;
+    margin: auto auto auto 950px;
+}
+
+h2.lema{
+    font-size: 1em;
+    text-align: center;
+}
+
+.logo{
+    text-align: justify;
+}
+
+h4{
+    color: #123456;
+}
+
+li {
+    display: inline;
+}
+
+main{
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+footer.pie_pagina{
+    clear: both;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#historia, #imslp{
+    border-radius: 8px;
+}
+
+#ayuda{
+    margin-left: 10px;
+}
+
+#alma{
+    margin-right: 50px;
+}
+
+#pajaro{
+    margin-right: 200px;
+}
+
+main.contenido2, #ctm_historia{
+    text-align: center;
+}
